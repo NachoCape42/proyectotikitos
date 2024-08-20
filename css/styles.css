@@ -1,0 +1,158 @@
+.section-nav {
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+}
+
+.imagen-logo {
+    display: flex;
+    width: 10rem;
+    }
+
+.imagen-tikitos {
+}
+
+.header-div {
+    position: absolute;
+    left: 1350px;
+   display: flex;
+   flex-direction: column;
+}
+
+
+.header-li {
+    margin-top: 1rem;
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    
+}
+
+
+.header-nav {
+  text-decoration: none;
+  font-size: 18px;
+ 
+}
+
+.div-enlaces { 
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+
+.links-destacados {
+    list-style-type: none;
+    gap: 2rem;
+    
+}
+
+.enlaces-destacados {
+    display: flex;
+    gap: 35rem;
+}
+
+.beneficio {
+    text-decoration: none;
+    position: relative;
+    left: 5rem;
+    
+
+    
+}
+.destacados {
+    text-decoration: none;
+    position: relative;
+    right: 2rem;
+}
+
+.chapitas {
+    text-decoration: none;
+    position: relative;
+    right: 8rem;
+}
+
+.div-destacados {
+    display: flex;
+    margin-top: 1rem;
+    height: 40rem;
+    justify-content:center;
+    gap: 10rem;
+}
+
+.imagen-chapitas {
+    height: 30rem;
+    width: 35rem;
+}
+
+.imagen-ropa {
+    height: 30rem;
+    width: 35rem;
+    
+}
+
+.imagen-dni {
+    height: 474px;
+    width: 35rem;
+    border: 2px solid black;
+}
+
+.texto-productos {
+    display: flex;
+    justify-content: center;
+    gap: 20rem;
+    height: 5rem;
+}
+.parrafo1 {
+    position: relative;
+    left: 2rem;
+    bottom: 8rem;
+    width: 50rem;
+    height: 10rem;
+}
+.parrafo2 {
+    position: relative;
+    right: 2rem;
+    bottom: 8rem;
+    width: 50rem;
+    height: 10rem;
+}
+.parrafo3 {
+    position: relative;
+    right: 4rem;
+    bottom: 8rem;
+    width: 50rem;
+    height: 10rem;
+}
+
+.horarios {
+    width: 100%;
+    height: 120vh;
+}
+.contactos {
+    height: 30vh;
+    background-color: rgba(0, 0, 0, 0.274);
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10rem;
+    align-items: center;
+}
+
+
+.direccion {
+    position: relative;
+    right: 355px;
+    margin-top: 5rem;
+}
+.tel {
+    position: relative;
+    right: 350px;
+    margin-top: 5rem;
+}
+.mapa {
+    width: 100%;
+}
+a:link {
+font-size: 25px ;   
+}
